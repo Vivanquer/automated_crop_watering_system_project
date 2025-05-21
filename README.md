@@ -1,1 +1,1 @@
-# automated_crop_watering_system_project
+# Automated Crop Watering System Project
