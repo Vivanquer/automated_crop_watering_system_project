@@ -4,7 +4,7 @@
 // Calibration - SET THESE!
 const int DRY = 475;   // Value in dry air
 const int WET = 200;   // Value in water
-const int THRESHOLD = 15; // Moisture % to trigger
+const int THRESHOLD = 30; // Moisture % to trigger
 
 void setup() {
   // Critical stability delays
@@ -25,7 +25,7 @@ void loop() {
     safePumpCycle();
   }
   
-  delay(1800000); // Check every 30 minutes
+  delay(3600000); // Check every 60 minutes
 }
 
 int readMoisture() {
