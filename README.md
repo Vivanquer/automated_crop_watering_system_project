@@ -2,7 +2,6 @@
 
 *A solar-powered closed-loop system that monitors soil moisture and irrigates crops using recycled rainwater*
 
-![System Diagram](https://via.placeholder.com/600x400?text=System+Diagram) <!-- Replace with actual image -->
 
 ## 📌 Key Features
 - ♻️ **Rainwater Recycling**: Collects and reuses rainfall from a 50L barrel
